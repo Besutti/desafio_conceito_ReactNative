@@ -5,3 +5,8 @@ const api = axios.create({
 });
 
 export default api;
+
+
+// react-native run-android
+// adb reverse tcp:3333 tcp:3333
+// 
